@@ -5,7 +5,7 @@
 This archive contains a project that I have experienced through Java web, a project I want to share with employers and friends.
 
 
-## * _You will find in this repo the follwing stuff:: _ *
+## * _You will find in this report the follwing stuff:: _ *
  You are requested to develop a simple Ecommerce website to sell IT books.
 * BookStore.sql helps you to create a database for your sales.
 * The java file helps you to run the project on java(netbeans) environment.
